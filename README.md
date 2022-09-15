@@ -2,7 +2,7 @@
 
 Author: Natalie Nguyen
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200908122744/Different-Sources-of-Data-for-Data-Analysis.png" />
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200908122744/Different-Sources-of-Data-for-Data-Analysis.png" alt="Analysis image" />
 
 ## Project Objective
 
@@ -23,7 +23,7 @@ Author: Natalie Nguyen
 
 ## Issues 
 
-Incase you have any difficulties or issues while trying to run the app you can raise it on the issues section. 
+In case of any difficulties or issues while running the app, please raise it on the issues section. 
 
 ## Pull Requests
 

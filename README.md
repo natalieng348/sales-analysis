@@ -1,4 +1,4 @@
-# Sales_Analysis_Project
+# Project: Sales Analysis 
 
 Author: Natalie Nguyen
 

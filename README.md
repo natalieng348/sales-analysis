@@ -25,7 +25,7 @@ Author: Natalie Nguyen
 
 The AdventureWorks databases are sample databases that were originally published by Microsoft to show how to design a SQL Server database using SQL Server 2008. AdventureWorks is the OLTP sample, and AdventureWorksDW is the data warehouse sample.
 
-Database design has progressed since AdventureWorks was first published. For a sample database leveraging more recent features of SQL Server, see WideWorldImporters.
+Database design has progressed since AdventureWorks was first published. For a sample database leveraging more recent features of SQL Server.
 
 Note that AdventureWorks has not seen any significant changes since the 2012 version. The only differences between the various versions of AdventureWorks are the name of the database and the database compatibility level. 
 

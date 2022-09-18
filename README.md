@@ -212,7 +212,7 @@
 
 * To assist the decision making process, the sales managers can view the [interactive sales management dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8) which consists of an overview page and two additional pages focusing on customer data and product data over time.
 
-[![image](https://user-images.githubusercontent.com/96028654/190929116-c26a51c3-7da0-434c-80fe-e5c25abf3c8b.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8)
+[![image](https://user-images.githubusercontent.com/96028654/190933620-bfce393c-485d-47fd-84eb-92c0b3623215.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8)
 [![image](https://user-images.githubusercontent.com/96028654/190929087-de7fdccb-f67a-4ee6-a7e2-084f5b5bff20.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8)
 [![image](https://user-images.githubusercontent.com/96028654/190929147-825f3128-4603-442e-be5c-783f99075e9c.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM2NTQyNjktODE5YS00NmIxLWJjYjItZmE3OTlhM2EzYzk2IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&pageName=ReportSection18107e9d881b492fe8c8)
 

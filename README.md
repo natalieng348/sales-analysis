@@ -16,7 +16,7 @@ Author: Natalie Nguyen
 
 ## Project Outline
 
-* Business Demand & Project Planning
+* Business Request & User Stories
 * Data Cleaning & Transformation
 * Data Visualization
 * Conclusion & Recap

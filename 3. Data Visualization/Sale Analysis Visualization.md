@@ -1,0 +1,1 @@
+<iframe title="Sales Visualization" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=2eddc2f5-4bf7-4711-8eaf-39cd96e4ec48&autoAuth=true&ctid=d175679b-acd3-4644-be82-af041982977a" frameborder="0" allowFullScreen="true"></iframe>

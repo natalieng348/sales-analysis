@@ -12,7 +12,7 @@ Author: Natalie Nguyen
 
 * Database: SQL (Microsoft SQL Server Management Studio)
 * Data Source: Adventure Works Sample Databases 2019
-* Data Visualization: Power BI
+* Data Visualization: Microsoft Power BI
 
 ## Project Outline
 

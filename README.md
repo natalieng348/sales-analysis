@@ -1,4 +1,4 @@
-# Project: Sales Analysis 
+# Data Analysis Project: Sales Management 
 
 Author: Natalie Nguyen
 

@@ -5,7 +5,7 @@
 
 ## Project Objective
 
-* Perform a detailed analysis using SQL and create interactive dashboards with Power BI for Internet Sales to facilitate a business request. 
+* Perform a detailed analysis using SQL and create interactive dashboards with PowerBI for Internet Sales to facilitate a business request. 
 
 ## Languages & Tools
 

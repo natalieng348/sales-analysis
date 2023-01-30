@@ -1,7 +1,6 @@
 # Data Analysis Project: Sales Management 
 
-*Author: Natalie Nguyen*
-
+![image](https://user-images.githubusercontent.com/96028654/215404057-d23ba1a6-8424-4889-a2a9-8990037ff2b0.png)
 
 ## Project Objective
 
